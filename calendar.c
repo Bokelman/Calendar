@@ -1,5 +1,3 @@
-/* Alexander Bokelman, 119602676, aboke */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
